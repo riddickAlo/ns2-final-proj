@@ -5,7 +5,7 @@
 Based on the practice resources, visit [lbs0912/Network-Simulator-NS2-Notes](https://github.com/lbs0912/Network-Simulator-NS2-Notes)    
   
 We assume that there are 4 nodes in a network. Node 0 starts a FTP transmission over TCP to node 3.  
-In the view of node 0, the link with node 1 looks good(10Mb & 1ms). It can't be aware of that there would be a bottleneck between node 1 and node 2. And node 3 can't be either.  
+In the view of node 0, the link with node 1 looks good (10Mb & 1ms). It can't be aware of that there would be a bottleneck between node 1 and node 2 (1Mb & 5ms). And node 3 can't be either.  
   
 This would set a scenario which close to reality. Help us to observe why NewReno outperforms Reno.
 
