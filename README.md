@@ -18,7 +18,7 @@ New Reno adds a slight modification over Reno for handling multiple packets loss
 which was outstanding at the time it entered this phase is acknowledged.   
 Thus it overcomes the problem faced by Reno of reducing congetsion window multiple times.  
   
-As result, it differs from Reno in the performance.  
+As result, it differs from Reno in performance.  
   
 ![image](https://github.com/riddickAlo/ns2-final-proj/blob/main/images/Result.PNG)
 
