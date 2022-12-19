@@ -2,7 +2,7 @@
 111-1 Final-term project of Computer Internet course
 
 ## Scenario
-Based on the practice resources, visit [lbs0912/Network-Simulator-NS2-Notes]([[lbs0912/Network-Simulator-NS2-Notes]](https://github.com/lbs0912/Network-Simulator-NS2-Notes))    
+Based on the practice resources, visit [lbs0912/Network-Simulator-NS2-Notes]    
 
 ## Dependancies
 - ubuntu 18.04
