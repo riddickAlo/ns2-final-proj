@@ -1,5 +1,5 @@
 # ns2-final-proj
-111-1 Final-term project of Computer N course
+111-1 Final-term project of Computer Network course
 
 ## Scenario
 Based on the practice resources, visit [lbs0912/Network-Simulator-NS2-Notes](https://github.com/lbs0912/Network-Simulator-NS2-Notes)    
