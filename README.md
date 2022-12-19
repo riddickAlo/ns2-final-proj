@@ -12,7 +12,9 @@ This would set a scenario which close to reality. Help us to observe why NewReno
 ![image](https://github.com/riddickAlo/ns2-final-proj/blob/main/images/System%20distruibution.PNG)
 
 ## Results
-
+If the congestion window is larger than 12.44 packets as shown below, it will cause packet loss.  
+New Reno adds a slight modification over Reno for handling multiple packets loss. It intriduced Fast-Recovery
+  
 ![image](https://github.com/riddickAlo/ns2-final-proj/blob/main/images/Result.PNG)
 
 ## Dependancies
