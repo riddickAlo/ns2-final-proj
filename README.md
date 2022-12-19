@@ -4,6 +4,8 @@
 ## Scenario
 Based on the practice resources, visit [lbs0912/Network-Simulator-NS2-Notes](https://github.com/lbs0912/Network-Simulator-NS2-Notes)  
 
+[image](https://github.com/riddickAlo/ns2-final-proj/blob/main/System%20distruibution.PNG)
+
 ## Dependancies
 - ubuntu 18.04
 - NS2 2.3.5
