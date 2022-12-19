@@ -5,9 +5,9 @@
 
 ## Dependancies
 - ubuntu 18.04
-- NS2
-- Gnuplot
-- Nam
-- TCL 8.6
+- NS2 2.3.5
+- Gnuplot version 5.2
+- Nam 1.15
+- TCL 8.6.0
 
 
