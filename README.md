@@ -9,7 +9,11 @@ In the view of node 0, the link with node 1 looks good(10Mb & 1ms). It can't ack
   
 This would set a scenario which close to reality. Help us to observe why NewReno outperforms Reno.
 
-![image](https://github.com/riddickAlo/ns2-final-proj/blob/main/System%20distruibution.PNG)
+![image](https://github.com/riddickAlo/ns2-final-proj/blob/main/images/System%20distruibution.PNG)
+
+## Results
+
+![image](https://github.com/riddickAlo/ns2-final-proj/blob/main/images/Result.PNG)
 
 ## Dependancies
 - ubuntu 18.04
