@@ -1,4 +1,4 @@
-# Process begining
+# Process beginning
 if {$argc != 1} {
 	puts "Comparsion between Reno & New Reno "
 	puts "Example:ns sim.tcl Reno or ns sim.tcl Newreno"
